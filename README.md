@@ -37,4 +37,4 @@ git clone https://github.com/winartodev/Dicoding-MachineLearningPemula.git
 
 3. jika anda sudah melakukan 2 langkah di atas maka project bisa digunakan
 
-Kalo ga mau pusing buka aja di <a href="https://colab.research.google.com/drive/130-Tl0nJurkdin9Oe_HmbjLGB2enStCN?authuser=1">https://colab.research.google.com/drive/130-Tl0nJurkdin9Oe_HmbjLGB2enStCN?authuser=1<a>
+Kalo ga mau pusing buka aja di <a href="https://colab.research.google.com/drive/130-Tl0nJurkdin9Oe_HmbjLGB2enStCN">https://colab.research.google.com/drive/130-Tl0nJurkdin9Oe_HmbjLGB2enStCN<a>
